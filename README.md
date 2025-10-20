@@ -44,18 +44,3 @@ The dataset contains details about movies and TV shows available on Netflix, suc
 - NumPy  
 - Jupyter Notebook / VS Code  
 
----
-
-## 📊 Next Steps (Optional)
-- Exploratory Data Analysis (EDA)  
-- Visualizing movie vs. TV show trends  
-- Country-based or year-based content insights  
-
----
-
-## 👩‍💻 Author
-**Your Name**  
-Data Analyst Intern – Elevate Labs  
-[Your GitHub Profile Link]
-
----
