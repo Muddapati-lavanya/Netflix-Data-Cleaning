@@ -1,0 +1,8 @@
+## Summary of Data Cleaning
+
+- Removed 10 duplicate rows using `drop_duplicates()`
+- Filled missing values in `country` with "Unknown"
+- Standardized `date_added` to `dd-mm-yyyy` format
+- Renamed columns to lowercase
+- Checked and fixed data types
+- Saved the cleaned dataset
